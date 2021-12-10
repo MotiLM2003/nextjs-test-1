@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Learning Singlton Pattern",
+    "description": "I would like to learn singleton in js language blah blah blah",
+    "link": "https://link.com",
+    "image": "https://www.image.com",
+    "proiority": 3,
+    "timeToFinish": 120,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "title": "Resource 23",
+    "description": "I would like to learn singleton in js language blah blah blah",
+    "link": "https://link.com",
+    "image": "https://www.image.com",
+    "proiority": 3,
+    "tiimeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "title": "Resoruce 3",
+    "description": "I would like to learn singleton in js language blah blah blah",
+    "link": "https://link.com",
+    "image": "https://www.image.com",
+    "proiority": 3,
+    "tiimeToFinish": 60,
+    "status": "active"
+  }
+]
